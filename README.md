@@ -7,4 +7,4 @@
 ruby leanoteToHexoBlog.rb
 ``` 
 
-## Step 3, cp new file in dirctory new to blog project
+## Step 3, cp new file in dirctory new to blog project, and then fill in the meta infos like title, category and tags.
